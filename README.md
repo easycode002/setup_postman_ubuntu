@@ -11,15 +11,15 @@ sudo snap install postman
 ```
 
 ### method 2:Install Postman using Flathub
-Step1:
+`Step1:`
 ```
 sudo apt install flatpak
 ```
-Step2:
+`Step2:`
 ```
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
-Step3:
+`Step3:`
 ```
 flatpak install flathub com.getpostman.Postman
 ```
